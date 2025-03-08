@@ -1,2 +1,2 @@
-This is my deployement link
-https://chaitanyasai19.github.io/Nexus-webpage/
+This is the deployement link
+https://chaitanya-2305.github.io/Nexus-webpage/
